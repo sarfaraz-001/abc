@@ -52,7 +52,7 @@ div {
 <p>
 	<div class ="role">An Actor who Always Chased his Dreams.</div>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLY9YNmmIC-0Q6mw1uSntgcCDFGHiXDjIyTBp7It57CQ_YWXAR&usqp=CAU"><br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsRXhU-Y-ZEFK4GvkWMPkGllb398PVDQb9frPBw9crguXc16zp&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLY9YNmmIC-0Q6mw1uSntgcCDFGHiXDjIyTBp7It57CQ_YWXAR&usqp=CAU"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsRXhU-Y-ZEFK4GvkWMPkGllb398PVDQb9frPBw9crguXc16zp&usqp=CAU"/>
 
 
 
