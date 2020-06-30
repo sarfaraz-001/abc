@@ -70,7 +70,9 @@ body
 	background-color: white;
 }
 
-
+.imgcontainer{
+	float:left;
+}
 
 
 
