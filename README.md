@@ -14,7 +14,7 @@
 
 
 
-<BODY><STYLE>A {text-decoration: none;} </STYLE>
+<STYLE>A {text-decoration: none;} </STYLE>
 
 
 	<header>
@@ -47,7 +47,7 @@ div {
 }
 </style>
 
-<body>
+
 	
 <p>
 	<div class ="role">An Actor who Always Chased his Dreams.</div>
